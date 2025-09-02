@@ -73,10 +73,14 @@
 ![Repos](https://img.shields.io/badge/Public_Repos-10-blue?style=for-the-badge&logo=github)  
 ![Commits](https://img.shields.io/badge/Daily_Commits-Active-green?style=for-the-badge)  
 
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=DevTonyCZ&show_icons=true&theme=radical)  
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTonyCZ&layout=compact&theme=radical)  
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DevTonyCZ&theme=radical&hide_border=true" alt="GitHub Streak" title="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevTonyCZ&show_icons=true&theme=radical" alt="Tus Stats" title="Tus Stats" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevTonyCZ&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTonyCZ&layout=compact&theme=radical)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevTonyCZ&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
 
