@@ -68,25 +68,25 @@
 
 ## 🚀 Proyectos Destacados  
 
-- [📚 Programas-Java](https://github.com/DevTonyCZ/Programas-Java) 
+- [📚 Programas-Java](https://github.com/Anthony-CZ6/Programas-Java) 
 
 ---
 
 ## 📊 Estadísticas   
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DevTonyCZ&theme=radical&hide_border=true" 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anthony-CZ6&theme=radical&hide_border=true" 
          alt="GitHub Streak" title="GitHub Streak" style="width: 45%; max-width: 250px; height: auto;" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=DevTonyCZ&show_icons=true&theme=radical" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Anthony-CZ6&show_icons=true&theme=radical" 
        alt="Tus Stats" title="Tus Stats" style="width: 45%; max-width: 250px; height: auto;" />
 </div>
 
 
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTonyCZ&layout=compact&theme=radical)  
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-CZ6&layout=compact&theme=radical)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevTonyCZ&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anthony-CZ6&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
