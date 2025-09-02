@@ -11,7 +11,9 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" height="50" alt="C" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
