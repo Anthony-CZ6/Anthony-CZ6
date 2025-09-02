@@ -45,7 +45,7 @@
 
 ---
 
-## 🎨 Diseño y prototipado  
+## 🎨 Diseño y prototipo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
