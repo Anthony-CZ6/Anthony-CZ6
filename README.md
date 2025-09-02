@@ -11,6 +11,8 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
+![Repos](https://img.shields.io/badge/Public_Repos-10-blue?style=for-the-badge&logo=github)
+![Commits](https://img.shields.io/badge/Daily_Commits-Active-green?style=for-the-badge)
 
 
 
