@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Tus Stats](https://github-readme-stats.vercel.app/api?username=DevTonyCZ&show_icons=true&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTonyCZ&layout=compact)
 
 <!--
 **DevTonyCZ/DevTonyCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
