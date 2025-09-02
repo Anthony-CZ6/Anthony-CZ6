@@ -70,8 +70,13 @@
 
 ## 📊 Estadísticas   
 
-![Repos](https://img.shields.io/badge/Public_Repos-10-blue?style=for-the-badge&logo=github)  
-![Commits](https://img.shields.io/badge/Daily_Commits-Active-green?style=for-the-badge)  
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="https://img.shields.io/badge/Repositorios_Publicos-10-blue?style=for-the-badge&logo=github" 
+       alt="Repositorios" title="Repositorios Públicos" style="height: 35px;" />
+  <img src="https://img.shields.io/badge/Commits_Diarios-Activo-green?style=for-the-badge" 
+       alt="Commits diarios" title="Commits diarios" style="height: 35px;" />
+</div>
+
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
   <a href="https://git.io/streak-stats">
