@@ -1,50 +1,91 @@
-## Hi there 👋
+# 👋 Hola, soy Tony  
 
-## 🧰 Lenguajes de programación
+💻 Apasionado por el **desarrollo de software** y el diseño de sistemas.  
+🚀 Me especializo en **Java, Kotlin y C++**, con experiencia en **JavaFX y Android Studio**.  
+🎮 También creo experiencias interactivas en **Unity**.  
+🌱 Actualmente estoy aprendiendo más sobre **Spring Boot** y **arquitecturas escalables**.  
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![JavaFX](https://img.shields.io/badge/JavaFX-8F00FF?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+---
 
-## 🛢️ Bases de datos
+## 🧰 Lenguajes de programación  
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+</p>
 
-## 🧰 Herramientas y control de versiones
+---
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/doc/)
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://partner.steamgames.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+## 🛢️ Bases de datos  
 
-## 🎨 Diseño y prototipado
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+</p>
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+---
 
-## 🛠️ Editores y entornos de desarrollo
+## 🛠️ Herramientas y control de versiones  
 
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![NetBeans](https://img.shields.io/badge/NetBeans-0078CE?style=for-the-badge&logo=apache-netbeans&logoColor=white)](https://netbeans.apache.org/)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
 
+</p>
 
+---
 
+## 🎨 Diseño y prototipado  
 
-![Repos](https://img.shields.io/badge/Public_Repos-10-blue?style=for-the-badge&logo=github)
-![Commits](https://img.shields.io/badge/Daily_Commits-Active-green?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+</p>
 
+---
 
+## 💡 Editores y entornos de desarrollo  
 
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=DevTonyCZ&show_icons=true&theme=radical)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTonyCZ&layout=compact)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+</p>
+
+---
+
+## 🚀 Proyectos Destacados  
+
+- [📚 Sistema de Gestión Escolar](https://github.com/DevTonyCZ/sistema-escolar) 
+
+---
+
+## 📊 Estadísticas  
+
+![Repos](https://img.shields.io/badge/Public_Repos-10-blue?style=for-the-badge&logo=github)  
+![Commits](https://img.shields.io/badge/Daily_Commits-Active-green?style=for-the-badge)  
+
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=DevTonyCZ&show_icons=true&theme=radical)  
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTonyCZ&layout=compact&theme=radical)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevTonyCZ&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevTonyCZ&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+## ⚡ Fun fact  
+
+Me gusta crear **interfaces limpias en JavaFX** tanto como perder horas ajustando detalles en mis juegos de **Roblox** 😅  
+
 
 <!--
 **DevTonyCZ/DevTonyCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
