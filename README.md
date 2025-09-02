@@ -1,4 +1,6 @@
-# 👋 Hola, soy Tony  
+<h1>Hola 👋, Soy Tony</h1>
+
+## ✨ Sobre mí
 
 💻 Apasionado por el **desarrollo de software** y el diseño de sistemas.  
 🚀 Me especializo en **Java, Kotlin y C++**, con experiencia en **JavaFX y Android Studio**.  
