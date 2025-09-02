@@ -2,7 +2,7 @@
 
 💻 Apasionado por el **desarrollo de software** y el diseño de sistemas.  
 🚀 Me especializo en **Java, Kotlin y C++**, con experiencia en **JavaFX y Android Studio**.  
-🎮 También creo experiencias interactivas en **Unity**.  
+🎮 También creo experiencias interactivas en **Unity y Roblox Studio**.  
 🌱 Actualmente estoy aprendiendo más sobre **Spring Boot** y **arquitecturas escalables**.  
 
 ---
@@ -58,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
+  <img src="https://skillicons.dev/icons?i=robloxstudio" height="50" style="background-color:#FF0000; border-radius:15px; padding:10px;"/>
+
 </p>
 
 ---
@@ -69,15 +71,6 @@
 ---
 
 ## 📊 Estadísticas   
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://img.shields.io/badge/Repositorios_Publicos-10-blue?style=for-the-badge&logo=github" 
-       alt="Repositorios" title="Repositorios Públicos" style="height: 35px;" />
-  <img src="https://img.shields.io/badge/Commits_Diarios-Activo-green?style=for-the-badge" 
-       alt="Commits diarios" title="Commits diarios" style="height: 35px;" />
-</div>
-
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=DevTonyCZ&theme=radical&hide_border=true" 
