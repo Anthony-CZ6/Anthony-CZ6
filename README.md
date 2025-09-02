@@ -68,7 +68,15 @@
 
 ---
 
-## 📊 Estadísticas  
+## 📊 Estadísticas   
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevTonyCZ&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTonyCZ&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevTonyCZ&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+</p>
+
+
 
 ![Repos](https://img.shields.io/badge/Public_Repos-10-blue?style=for-the-badge&logo=github)  
 ![Commits](https://img.shields.io/badge/Daily_Commits-Active-green?style=for-the-badge)  
