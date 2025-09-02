@@ -73,14 +73,15 @@
 ![Repos](https://img.shields.io/badge/Public_Repos-10-blue?style=for-the-badge&logo=github)  
 ![Commits](https://img.shields.io/badge/Daily_Commits-Active-green?style=for-the-badge)  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=DevTonyCZ&theme=radical&hide_border=true" 
-         alt="GitHub Streak" title="GitHub Streak" style="max-width: 100%; height: auto;" />
+         alt="GitHub Streak" title="GitHub Streak" style="width: 45%; max-width: 250px; height: auto;" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=DevTonyCZ&show_icons=true&theme=radical" 
-       alt="Tus Stats" title="Tus Stats" style="max-width: 100%; height: auto;" />
+       alt="Tus Stats" title="Tus Stats" style="width: 45%; max-width: 250px; height: auto;" />
 </div>
+
 
 
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTonyCZ&layout=compact&theme=radical)  
