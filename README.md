@@ -84,7 +84,7 @@
 
 ## ⚡ Fun fact  
 
-Me gusta crear **interfaces limpias en JavaFX** tanto como perder horas ajustando detalles en mis juegos de **Roblox** 😅  
+Me gusta crear **interfaces limpias en JavaFX** 😅  
 
 
 <!--
