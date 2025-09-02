@@ -64,7 +64,7 @@
 
 ## 🚀 Proyectos Destacados  
 
-- [📚 Sistema de Gestión Escolar](https://github.com/DevTonyCZ/sistema-escolar) 
+- [📚 Programas-Java](https://github.com/DevTonyCZ/Programas-Java) 
 
 ---
 
