@@ -54,11 +54,7 @@
 ## 💡 Editores y entornos de desarrollo  
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" 
-     width="50" height="50" 
-     style="background-color:#0078d7; border-radius:15px; padding:10px;"/>
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="50" height="50" style="background-color:#1e1e2e; border-radius:15px; padding:10px;"/>
