@@ -88,30 +88,12 @@
 
 ---
 
-## 🚀 Actualmente
-- 📱 Desarrollando apps con **Android Studio**  
-- 🎮 Creando experiencias en **Roblox Studio**  
-- 📚 Aprendiendo más sobre **arquitecturas escalables y patrones de diseño**  
-
----
-
 ## 💡 Habilidades adicionales
 - ✅ Trabajo en equipo y metodologías ágiles (Scrum)  
 - ✅ Comunicación clara y documentación  
 - ✅ Resolución de problemas y pensamiento crítico  
 
 ---
-
-## 🎵 Mientras programo...
-- 🎧 Electronica  
-- ☕ Café cargado  
-- 🌙 De noche es cuando las ideas fluye  
-
----
-
-## ⚡ Fun fact  
-
-Me gusta crear **interfaces limpias en JavaFX** 😅  
 
 
 <!--
